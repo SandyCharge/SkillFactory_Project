@@ -2,18 +2,18 @@ import numpy as np
 
 
 def binary_search(number):
-    '''Бинарный поиск смысл заключаеться в том, что берём определённый интервал, в нашем случае от 0 до 100
-     и сравниваем больше или меньше полученное число от загадоного и в зависимости от результата берём тот диапозон где лежит число.....'''
+    '''При бинарном поиске искомый ключ сравнивается с ключом среднего элемента в деапозона чисел.
+     Если они равны, то поиск успешен. В противном случае поиск осуществляется аналогично в левой или правой частях деапозона чисел.'''
     count = 1
-    end_number = 100/2
+    end_number = 100 / 2
     home_number = 0
     while end_number != number:
         count += 1
         if end_number > number:
-            end_number = home_number + round((end_number - home_number)/ 2)
+            end_number = home_number + round((end_number - home_number) / 2)
         else:
             home_number = end_number
-            end_number = home_number + round(((end_number*2)-home_number)/ 2)
+            end_number = home_number + round(((end_number * 2) - home_number) / 2)
     return count
 
 
