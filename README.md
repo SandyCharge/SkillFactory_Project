@@ -14,11 +14,11 @@
 
 -------------------------ПРОЕКТ  "О ВКУСНОЙ И ЗДОРОВОЙ ПИЩЕ" -------------------------------
 
-Файл с проектом - SkillFactary_projetcs/about delicious and healthy food/your_first_model_last.ipynb
-
+Файл с проектом - https://github.com/SandyCharge/SkillFactory_Project/tree/master/SkillFactary_projetcs/about%20delicious%20and%20healthy%20food
 
 
 -------------------------ПРОЕКТ "О ВКУСНОЙ И ЗДОРОВОЙ ПИЩЕ" КОНЕЦ--------------------------
+
 
 -------------------------ПРОЕКТ  "АВИАРЕЙСЫ БЕЗ ПОТЕРЬ" -------------------------------
 
