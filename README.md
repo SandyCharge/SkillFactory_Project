@@ -24,4 +24,4 @@
 
 Файл с проектом - https://github.com/SandyCharge/SkillFactory_Project/tree/master/SkillFactary_projetcs/flights%20without%20losses
 
--------------------------ПРОЕКТ  "АВИАРЕЙСЫ БЕЗ ПОТЕРЬ" -------------------------------
+-------------------------ПРОЕКТ  "АВИАРЕЙСЫ БЕЗ ПОТЕРЬ" КОНЕЦ-------------------------------
