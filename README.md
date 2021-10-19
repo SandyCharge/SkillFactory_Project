@@ -1,13 +1,13 @@
 -------------------------ПРОЕКТ "КТО ХОЧЕТ СТАТЬ МИЛЛИОНЕРОМ"-------------------------------
   
-Файл с проекто - https://github.com/SandyCharge/SkillFactory_Project/tree/master/SkillFactary_projetcs/Who%20Wants%20to%20Be%20a%20Millionaire
+Файл с проектом - https://github.com/SandyCharge/SkillFactory_Project/tree/master/SkillFactary_projetcs/Who%20Wants%20to%20Be%20a%20Millionaire
 
 -------------------------ПРОЕКТ "КТО ХОЧЕТ СТАТЬ МИЛЛИОНЕРОМ" КОНЕЦ ------------------------------
 
 
 -------------------------ПРОЕКТ АНАЛИТИКА ДАННЫХ "Анализ учащихся" -------------------------------
 
- Файл с проектом - SkillFactary_projetcs/analysis_of_student_performance/intelligence analysis of data stud_math.ipynb
+ Файл с проектом - https://github.com/SandyCharge/SkillFactory_Project/tree/master/SkillFactary_projetcs/analysis_of_student_performance
  
 -------------------------ПРОЕКТ АНАЛИТИКА ДАННЫХ "Анализ учащихся" КОНЕЦ--------------------------
 
