@@ -1,6 +1,6 @@
 -------------------------ПРОЕКТ "КТО ХОЧЕТ СТАТЬ МИЛЛИОНЕРОМ"-------------------------------
   
-Файл с проекто - "Кто хочет стать миллионером" - SkillFactary_projetcs/Who Wants to Be a Millionaire/Movies_IMBD_v4.1_TEMPLATE.ipynb
+Файл с проекто - https://github.com/SandyCharge/SkillFactory_Project/tree/master/SkillFactary_projetcs/Who%20Wants%20to%20Be%20a%20Millionaire
 
 -------------------------ПРОЕКТ "КТО ХОЧЕТ СТАТЬ МИЛЛИОНЕРОМ" КОНЕЦ ------------------------------
 
