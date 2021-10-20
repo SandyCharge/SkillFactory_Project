@@ -168,9 +168,14 @@ where a.model in (select distinct a.model as model
                     where f.departure_airport = (select a.airport_code as airport_code
                                                     from dst_project.airports as  a
                                                         where a.city like 'Anapa'))
+											
+											
+											
+											
+											
 														
-														
-														
+Основной запрос.
+
 with city_airport as (select distinct f.arrival_airport as arrival_airport,
                         ai.city as city_arrival_airport
                     from dst_project.flights as f
@@ -195,6 +200,7 @@ with city_airport as (select distinct f.arrival_airport as arrival_airport,
                             group by flight_id)
 
 select f.flight_id,
+    f.flight_no,
     f.status,
     f.actual_departure,
     ca.city_arrival_airport,
